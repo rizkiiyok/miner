@@ -1,1 +1,1 @@
-# ccminer_binary
+# miner
